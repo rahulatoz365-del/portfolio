@@ -1,4 +1,3 @@
-import React, { Children } from 'react'
 import './card.css'
 const Card = ({children,className,onClick}) => {
   return (
