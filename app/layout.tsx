@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   title: 'Rahul Singh | Full Stack Developer',
   description: 'Professional portfolio of Rahul Singh - Full Stack Developer specializing in React, Node.js, and modern web technologies.',
   keywords: 'Full Stack Developer, React, Node.js, JavaScript, TypeScript, Web Development',
-  authors: [{ name: 'John Doe' }],
+  authors: [{ name: 'Rahul Singh' }],
   viewport: 'width=device-width, initial-scale=1',
 };
 

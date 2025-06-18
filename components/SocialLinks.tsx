@@ -26,7 +26,7 @@ const SocialLinks = () => {
     },
     {
       icon: Mail,
-      href: 'mailto:rahulrogerxd111@gmail.com',
+      href: 'https://mail.google.com/mail/?view=cm&fs=1&to=rahulrogerxd111@gmail.com',
       label: 'Email',
       color: 'hover:text-red-600 hover:bg-gradient-to-br hover:from-red-50 hover:to-red-100',
       gradient: 'from-red-500 to-red-700',
