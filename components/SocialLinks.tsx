@@ -19,14 +19,14 @@ const SocialLinks = () => {
     },
     {
       icon: Linkedin,
-      href: 'www.linkedin.com/in/rahulsinghrishu',
+      href: 'https://www.linkedin.com/in/rahulsinghrishu/',
       label: 'LinkedIn',
       color: 'hover:text-blue-700 hover:bg-gradient-to-br hover:from-blue-50 hover:to-blue-100',
       gradient: 'from-blue-600 to-blue-800',
     },
     {
       icon: Mail,
-      href: 'rahulrogerxd111@gmail.com',
+      href: 'mailto:rahulrogerxd111@gmail.com',
       label: 'Email',
       color: 'hover:text-red-600 hover:bg-gradient-to-br hover:from-red-50 hover:to-red-100',
       gradient: 'from-red-500 to-red-700',
