@@ -5,7 +5,7 @@ import { ExternalLink, Github, Star } from 'lucide-react';
 
 const ProjectsSection = () => {
   const projects = [
-    /*{
+    {
       title: 'Social Network',
       description: 'A social networking app that lets users connect, share thoughts, and discover new friends. Inspired by Twitter, it includes features like posting short updates ("tweets"), following others, and sending friend requests.It also supports friend suggestions based on mutual connections and interests.',
       techStack: ['Next js', 'Tailwind CSS', 'TypeScript', 'Prisma', 'PostgreSQL','Graph (DSA)', 'Vercel'],
@@ -13,7 +13,7 @@ const ProjectsSection = () => {
       github: 'https://github.com/rahulatoz365-del/social-network',
       featured: true,
       gradient: 'from-blue-500 to-purple-500',
-    },*/
+    },
     {
       title: 'WireFrame to Code',
       description: 'Codrr a tool that converts wireframes into production-ready code, streamlining the design-to-development process. It supports multiple frameworks and includes features like responsive design and code optimization.',
